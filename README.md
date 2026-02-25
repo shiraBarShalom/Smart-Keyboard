@@ -1,4 +1,13 @@
-# Smart Hebrew-English Keyboard Project
+<!-- Center the image and make it circular -->
+<p align="center">
+  <img src="keyboard_demo.png" alt="Smart Keyboard" width="150" style="border-radius:50%;">
+</p>
+
+<h1 align="center">Smart Keyboard Project</h1>
+
+<p align="center">
+A smart Hebrew-English keyboard that automatically detects the input language and corrects typing errors.
+</p>
 
 ## Description
 This project is a custom smart keyboard that automatically detects whether the user is typing in Hebrew or English and switches the layout seamlessly. It also provides **context-aware corrections**, ensuring that mistyped words in the wrong keyboard layout are corrected automatically.
